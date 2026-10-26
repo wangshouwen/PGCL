@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "PGCL: Prompt-guided consistency learning for multi-label classification with incomplete labels"
+type: software
+authors:
+  - family-names: Wang
+    given-names: Shouwen
+  - family-names: Wan
+    given-names: Qian
+  - family-names: Zhang
+    given-names: Zihan
+  - family-names: Zeng
+    given-names: Zhigang
+repository-code: "https://github.com/wangshouwen/PGCL"
+url: "https://wangshouwen.github.io/PGCL/"
+license: Apache-2.0
+preferred-citation:
+  type: article
+  title: "Prompt-guided consistency learning for multi-label classification with incomplete labels"
+  authors:
+    - family-names: Wang
+      given-names: Shouwen
+    - family-names: Wan
+      given-names: Qian
+    - family-names: Zhang
+      given-names: Zihan
+    - family-names: Zeng
+      given-names: Zhigang
+  journal: "Neural Networks"
+  volume: 190
+  start: 107604
+  year: 2025
+  doi: "10.1016/j.neunet.2025.107604"
